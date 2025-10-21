@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E89FCDB0-BCFE-A929-29A2-9E5383547A9F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/DesktopInteract.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player/DesktopInteract.cs" Line="37" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OpenningScene_EXP" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Player" expanded="True">
+                  <Node name="DesktopInteract.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b8971a12-f2de-400d-bd6e-fef95ad2b672" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
