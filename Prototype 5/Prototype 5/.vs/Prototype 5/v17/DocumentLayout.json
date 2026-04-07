@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Seyit Ahmet Inci\\Documents\\GitHub\\Sebastian\\Create-With-Code\\Prototype 5\\Prototype 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|c:\\users\\seyit ahmet inci\\documents\\github\\sebastian\\create-with-code\\prototype 5\\prototype 5\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|c:\\users\\seyit ahmet inci\\documents\\github\\sebastian\\create-with-code\\prototype 5\\prototype 5\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEA0EDF-4D3B-4721-E114-1968096EC446}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Seyit Ahmet Inci\\Documents\\GitHub\\Sebastian\\Create-With-Code\\Prototype 5\\Prototype 5\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Seyit Ahmet Inci\\Documents\\GitHub\\Sebastian\\Create-With-Code\\Prototype 5\\Prototype 5\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:04:25.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Target.cs",
+              "DocumentMoniker": "C:\\Users\\Seyit Ahmet Inci\\Documents\\GitHub\\Sebastian\\Create-With-Code\\Prototype 5\\Prototype 5\\Assets\\Scripts\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Target.cs",
+              "ToolTip": "C:\\Users\\Seyit Ahmet Inci\\Documents\\GitHub\\Sebastian\\Create-With-Code\\Prototype 5\\Prototype 5\\Assets\\Scripts\\Target.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Target.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:13:50.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
